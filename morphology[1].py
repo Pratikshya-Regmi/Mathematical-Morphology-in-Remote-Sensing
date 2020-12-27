@@ -33,11 +33,11 @@ def select_image():
  #   global kernel_size
   #  kernel_size=E1.get()
     
-#print (type(kernel_size))
-#submit_buton=Button(root, text= "Submit",command = getKernel)
-#label1.pack()
-#E1.pack()
-#submit_buton.pack()
+##print (type(kernel_size))
+##submit_buton=Button(root, text= "Submit",command = getKernel)
+##label1.pack()
+##E1.pack()
+##submit_buton.pack()
    
 select_image()    
 def print_input():
