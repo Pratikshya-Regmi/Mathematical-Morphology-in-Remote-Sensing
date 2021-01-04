@@ -13,10 +13,10 @@ w = Label(text = 'MATHEMATICAL MORPHOLOGY', font = ('times', 24, 'bold'))
 w.pack()
 
 
-#root.withdraw()
-#input_image = 'input1.png'
-#print(type(input_image))
-#print(input_image)
+##root.withdraw()
+##input_image = 'input1.png'
+##print(type(input_image))
+##print(input_image)
 
 
 def select_image():
