@@ -1,2 +1,2 @@
-# Mathematical-Morphology-in-Remote-Sensing
+# Mathematical- Morphology-in-Remote-Sensing
 Dilation, Erosion, Opening and  Closing 
