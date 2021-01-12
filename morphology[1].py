@@ -30,7 +30,7 @@ def select_image():
 #E1 = Entry(root, bd =5)
 
 #def getKernel():
- #   global kernel_size
+  #   global kernel_size
   #  kernel_size=E1.get()
     
 ##print (type(kernel_size))
